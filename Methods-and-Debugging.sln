@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{4C2E6952-7F41-47E4-A6A3-3C1E3C65E186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{7824D47A-667E-42CF-A8C1-D71A405B9CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfTheLastDigit", "EnglishNameOfTheLastDigit\EnglishNameOfTheLastDigit.csproj", "{999C5EBA-B2A9-4981-BCB5-DF42D14B8E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{40B673D0-464F-4BD5-8C13-EC559C33C7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{9E537F77-745F-479E-972F-131E909609AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{ADF029ED-4C7B-457E-8690-395E65ED5B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{1636E527-E3DB-4DAB-8D75-5B8B986B28BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2E6952-7F41-47E4-A6A3-3C1E3C65E186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2E6952-7F41-47E4-A6A3-3C1E3C65E186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E6952-7F41-47E4-A6A3-3C1E3C65E186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2E6952-7F41-47E4-A6A3-3C1E3C65E186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7824D47A-667E-42CF-A8C1-D71A405B9CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7824D47A-667E-42CF-A8C1-D71A405B9CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7824D47A-667E-42CF-A8C1-D71A405B9CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7824D47A-667E-42CF-A8C1-D71A405B9CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999C5EBA-B2A9-4981-BCB5-DF42D14B8E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999C5EBA-B2A9-4981-BCB5-DF42D14B8E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999C5EBA-B2A9-4981-BCB5-DF42D14B8E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999C5EBA-B2A9-4981-BCB5-DF42D14B8E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B673D0-464F-4BD5-8C13-EC559C33C7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B673D0-464F-4BD5-8C13-EC559C33C7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B673D0-464F-4BD5-8C13-EC559C33C7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B673D0-464F-4BD5-8C13-EC559C33C7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E537F77-745F-479E-972F-131E909609AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E537F77-745F-479E-972F-131E909609AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E537F77-745F-479E-972F-131E909609AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E537F77-745F-479E-972F-131E909609AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF029ED-4C7B-457E-8690-395E65ED5B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF029ED-4C7B-457E-8690-395E65ED5B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF029ED-4C7B-457E-8690-395E65ED5B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF029ED-4C7B-457E-8690-395E65ED5B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1636E527-E3DB-4DAB-8D75-5B8B986B28BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1636E527-E3DB-4DAB-8D75-5B8B986B28BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1636E527-E3DB-4DAB-8D75-5B8B986B28BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1636E527-E3DB-4DAB-8D75-5B8B986B28BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67BA202-3841-41DE-B4E6-527232FCD13B}
+	EndGlobalSection
+EndGlobal
